@@ -8,14 +8,14 @@ h3 {
   font-weight: bold;
 }
 
-.broadway {
+.hero {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
   text-align: center;
   color: white;
 }
 
-.broadway h1 {
-font-size: 70px;
+.hero h1 {
+  font-size: 70px;
 }
 
 .btn-nav {
